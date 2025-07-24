@@ -10,9 +10,8 @@ This project aims to predict the compatibility of 3-piece fashion outfits consis
 - **Category Detection**: HuggingFace-based classifier for clothing item categorization
 - **Compatibility Classifier**:
   - XGBoost (main model)
-  - MLPClassifier (tested as alternative)
-- **User Interface**: Basic Python GUI (can be developed using Streamlit or Tkinter)
-- **Dataset**: Polyvore Outfits (filtered to 3-piece combinations)
+- **User Interface**: Basic Python GUI 
+- **Dataset**: Polyvore Outfits 
 
 ---
 
